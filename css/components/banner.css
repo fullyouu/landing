@@ -1,0 +1,26 @@
+.banner {
+  background-image: url("https://arthur-littm.github.io/startup-landing/images/background.png");
+  background-size: cover;
+  background-position: center;
+  padding: 200px 0;
+  color: white;
+}
+
+.banner .container h1 {
+  color: white;
+}
+
+.banner .container p {
+  color: white;
+  opacity: 0.7;
+  font-size: 20px;
+  margin-bottom: 36px;
+}
+
+.btn-top {
+  background-color: #1EDD88;
+  color: white;
+  border-radius: 30px;
+  font: "Open Sans" 16px;
+  padding: 16px 36px;
+}
